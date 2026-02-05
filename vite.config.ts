@@ -6,7 +6,10 @@ export default defineConfig({
   root: '.',
   build: {
     outDir: 'dist',
-    sourcemap: true
+    sourcemap: true,
+    rollupOptions: {
+      input: './index.html'
+    }
   },
   server: {
     port: 3000,
