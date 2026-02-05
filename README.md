@@ -30,7 +30,7 @@ piquiyo wp/
 ├── wordpress-graphql-setup.md  # Headless WordPress guide
 └── everythingaboutwebsite.md   # Complete documentation
 ```
-
+YES>
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19.2.4, TypeScript 5.9.3
